@@ -9,7 +9,8 @@ export default function HomeScreen() {
     <View>
       <View style={styles.headerContainer}>
         <Header/>
-        <SearchBar/>
+        {/* {SearchBar({lat:28.64,lon:77.21,searchText:"Evstation"})} */}
+        <SearchBar searchedLocation={(location)=>console.log(location)}/>
       </View>
       <AppMapView/>
     </View>
