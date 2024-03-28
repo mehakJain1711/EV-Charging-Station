@@ -1,12 +1,12 @@
 import { StyleSheet,View, Text } from 'react-native';
-import React, { useContext, useEffect} from 'react'
+import React, { useContext,useEffect } from 'react'
 import AppMapView from './AppMapView'
 import Header from './Header'
 import SearchBar from './searchBar';
 import { UserLocationContext } from '../../Context/UserLocationContext';
 import GlobalApi from '../../Utils/GlobalApi'
 export default function HomeScreen() {
-
+//
   const{location,setLocation}=useContext(UserLocationContext);
 
   useEffect(()=>{
