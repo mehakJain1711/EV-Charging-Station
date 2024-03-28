@@ -1,5 +1,5 @@
 import { StyleSheet,View, Text } from 'react-native';
-import React, { useContext } from 'react'
+import React, { useContext, useEffect} from 'react'
 import AppMapView from './AppMapView'
 import Header from './Header'
 import SearchBar from './searchBar';
