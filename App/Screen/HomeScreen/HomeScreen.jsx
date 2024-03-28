@@ -6,7 +6,7 @@ import SearchBar from './searchBar';
 import { UserLocationContext } from '../../Context/UserLocationContext';
 import GlobalApi from '../../Utils/GlobalApi'
 export default function HomeScreen() {
-//
+
   const{location,setLocation}=useContext(UserLocationContext);
 
   useEffect(()=>{
@@ -27,7 +27,7 @@ export default function HomeScreen() {
     }
   }
     GlobalApi.NewNearByPlace(data).then(resp=>{
-      console.log(resp.data);
+      console.log(JSON.stringify(resp.data));
     })
   }
   return (

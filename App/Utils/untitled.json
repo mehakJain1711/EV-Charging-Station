@@ -1,0 +1,1015 @@
+{
+    "places": [
+        {
+            "formattedAddress": "C-11, C Block, Sector 10, Noida, Uttar Pradesh 201301, India",
+            "location": {
+                "latitude": 28.5892186,
+                "longitude": 77.3343384
+            },
+            "displayName": {
+                "text": "Ather Space - Electric Scooter Experience Center",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJagrKVL3UeFHQ-Q7qTYp3BCpCM7as0HFM_LiD8xU9FeWNUc9kC-UteLHboO_Jmihkxjdofz2W2fFhjUrPdwo9qlnmgjMLCYc2wbQu7XsFBAMEDTKHoR06npBmoQbPGzecmdlxsYmlmdFmF3z2I69fJWDe9EvdvtnZrZ",
+                    "widthPx": 4160,
+                    "heightPx": 3120,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ather Space - Electric Scooter Experience Center",
+                            "uri": "//maps.google.com/maps/contrib/103838408811315386299",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXb7Nvh7C1MtK2L0_HrY2HCe8sih2ZxpvZi4ZIqtJIHGA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJYzd_Rmy5FNp5QuHFVk-eRs_OBAUXg2YBIynvRv4dLdVPz-WDQPfG2ZuP-sJcnHIkedsRBMGpQDI-P8-ieAiyu_WfHITWMF3eSoKG4_Fzmr8cjLhFJNvf61g_o2eV9-IWUVGPWz850HrpBG9jQOmEF51QWP926sm6ab",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Rakesh koley",
+                            "uri": "//maps.google.com/maps/contrib/110613797195290482200",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXZwMplAokZcc8R3LKd0IHjXeq7_7mW_IyMTvxLGDXiGFJv=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJbp9t7zR_5HImXHIMsOwVYNdaX_GMRwtnt_4T83X7BdkY0bd0Fu6wSX1zbLs3ewhZ8VhzccU6_8hMKThwfsMn5r4pu7grM3NXe91SUbGUY0jC4rGFoboTLS5CjR7LX2Zn2-iF9xGGz1yyI42JZWo42l6Y767LapF-k7",
+                    "widthPx": 1156,
+                    "heightPx": 867,
+                    "authorAttributions": [
+                        {
+                            "displayName": "akshay chauhan",
+                            "uri": "//maps.google.com/maps/contrib/113880878085172949068",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX5h8FkRfVmL9PT7WSy5hg90cItfZKZuCRTEg8i5D8GoPs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJYUqMK5ZgoAQqZy4szRkvtJ7MFYWHgQkO_gtmRFXiRCw9OrbRikCUYDN_e30lx0JMQZG4aBTorKdDJTaVdHPu8USIaW7ztby3GNKXZ4sxzZhfOzXeEfvBhSnRTmLYk-Ixc-knUEMCkDU9NbmXG1l6a0WEZxr3bqlNTi",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ather Space - Electric Scooter Experience Center",
+                            "uri": "//maps.google.com/maps/contrib/103838408811315386299",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXb7Nvh7C1MtK2L0_HrY2HCe8sih2ZxpvZi4ZIqtJIHGA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJZOwd61mRYm4gh38rCGcztUy821jbJKFj3enCmJBdLC8KChPaCCqfEDrBdl5lTY3XFZxdnJ-3bFSUG4S6YzVE3ZVmcWAeRrZgHsoQgHPpTZIQQbedViZIoyVnTW5V_mklEJfsW3m_KqLZJzrAJNKglfUCrxjJWpNpSJ",
+                    "widthPx": 1156,
+                    "heightPx": 867,
+                    "authorAttributions": [
+                        {
+                            "displayName": "akshay chauhan",
+                            "uri": "//maps.google.com/maps/contrib/113880878085172949068",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX5h8FkRfVmL9PT7WSy5hg90cItfZKZuCRTEg8i5D8GoPs=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJYFO2Gc2jodrbKpYrrxv2uNAO1HfbuvyTBprQxi7NdnIrVgnAzNcrArfOQqGEAyhM9tPjkM1C3jOU08AWkN1-H7P03OHa3FnuAZmIS9e1L8C6WZ6FGAXsrTGmuRqhG-UZ4EzqtJsjmFSoN9NQAELP0ddymECxUTFSxC",
+                    "widthPx": 3000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ather Space - Electric Scooter Experience Center",
+                            "uri": "//maps.google.com/maps/contrib/103838408811315386299",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXb7Nvh7C1MtK2L0_HrY2HCe8sih2ZxpvZi4ZIqtJIHGA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJbxO9dN0y9YGfD9MFwqtdbZOwFfHchDIL6LsnRSGeD_rHYUx2HsI7pOtYuf0j75EukjmRXn-eEXLheYRk6YDY8rHftg8kYkedz4SgXJJdLfKXkxa60eoLgTUWIRI5X3a5EFTspbYuP_AmkZueH9b8MUPzH20dSgA5KC",
+                    "widthPx": 3000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Akhil Kumar",
+                            "uri": "//maps.google.com/maps/contrib/113532330188248179287",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUMktcAt-y2gshR4FW4odbXq_pbzLYIZuDLMNqzkFdRrgA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJbCU1qF7hhk9UtK4_iEpctz9RbMyhBHVmOMipxo4j8bd1hCpW7bTibquQ3_ToXpi5LITvS5JZuPho6SP4FNvAkYlHOw3e22SlObEqMnAQY1rfqnYlxFZi4ofMAGCFZO5xRrH-yBfaUooGBJf5OJYeiKDMlHb9nrdUEN",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ather Space - Electric Scooter Experience Center",
+                            "uri": "//maps.google.com/maps/contrib/103838408811315386299",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXb7Nvh7C1MtK2L0_HrY2HCe8sih2ZxpvZi4ZIqtJIHGA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJb9zwZl9LpK29EAnrJChfKD5IgNNlxAe4HX6Ksef5YFs_rdLC5G-te1wkYBIJXCJJQxd8U7RH-x9MnTHO6Js2SIKxWKc1D-w4spYZPyq4svcYQ489PfjWajZkmwOHkSRT4mq3KLyfVnmdFDYzuszxLlDafFrCUre134",
+                    "widthPx": 4160,
+                    "heightPx": 3120,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ather Space - Electric Scooter Experience Center",
+                            "uri": "//maps.google.com/maps/contrib/103838408811315386299",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXb7Nvh7C1MtK2L0_HrY2HCe8sih2ZxpvZi4ZIqtJIHGA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJkcDt8S7lDDkR28hgxy3s9SU/photos/ATplDJaOlalif9pbLLvuUJccDMlwr49B2_iCHG1DQ_0wbe4t2Cg6KGcAbkJsgDDq4BmdkVPqMoBFrMhyQSHMIqAbFlOzgukEzSp9ttdGRz37-F0R584PLAKGHEMtaTvW499ajwEwEKyqOOSXYBMQyTgI67BtTLlKw2wB7T0b",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ather Space - Electric Scooter Experience Center",
+                            "uri": "//maps.google.com/maps/contrib/103838408811315386299",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXb7Nvh7C1MtK2L0_HrY2HCe8sih2ZxpvZi4ZIqtJIHGA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "formattedAddress": "No 173, Patparganj Industrial Area, Patparganj, New Delhi, Delhi, 110092, India",
+            "location": {
+                "latitude": 28.6417127,
+                "longitude": 77.3147525
+            },
+            "displayName": {
+                "text": "Ather Service Center",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJZVJtYU54NbWhhEbHsJb-lSxwvN7zUXNGp3agVzByhJfSLSKyldqRoHwDaOPSvfdzEdAldX-0QTI7NDVA8JPwGUWW86Akj7ozgpaZwQP2_8pqLU5ugJCJcV7x0yOdYa3cs0nKMd5Jwmb2oT_-miAKkwuo7O81M3Ex97",
+                    "widthPx": 4624,
+                    "heightPx": 3468,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dr Dheeraj Maan",
+                            "uri": "//maps.google.com/maps/contrib/116669311611899088713",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJwET_t7niUAu1eXOj2QSyuJtpxXbYnqyKMNShyxcH0iLT=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJZAmY-J4sGYz_wpcbdqCetko4eP5oqqTKKbDYbrebrP8lm6PoAMtt-L8hLoy-vStm6IgnIYnsgMwZEv65d9If3RsOzVtSVqcJoh4IofQS3bys4F7Lu9h2v8x_kB_W-SPGLUq0wGjA_IvX6zbCh3iDFNQtu_ItC2HWfZ",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Farooqui Khizir",
+                            "uri": "//maps.google.com/maps/contrib/116301445202821123434",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVzZyL__BZQOBhQKkuFs5ayqoaD86B_JaTyoYqRcZrMERgc=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJYcn40YiNmPukaaSl6-5Pxir147ycyHln-Bw1HutMz57oo2bUR2os4PLGenZ2AwQOe-OaT4jZDROzWaZqdM3-_9ner7SDH_dVycogghGCRzakNnjgoDVJYkoFu249mMv7ybmz6lvpUfkyg8DqfUKvdVbMAOfP9QTq_P",
+                    "widthPx": 4624,
+                    "heightPx": 3468,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dr Dheeraj Maan",
+                            "uri": "//maps.google.com/maps/contrib/116669311611899088713",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJwET_t7niUAu1eXOj2QSyuJtpxXbYnqyKMNShyxcH0iLT=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJZ4Gf_dn8WDM36f6noZxGwb0rrSY9LDuIf4aGUjaD9DxNNE7Mo0yUULBMicP6cTAnILjwd5XqaappyjdzlqTR4gc6hfyuWLqnuEUkeCdzZUTSRF-VJBY67BIaasEz6Z-tKLvDZgN2-Qg96_HyQkElwGBT6ED7fS0W78",
+                    "widthPx": 1600,
+                    "heightPx": 721,
+                    "authorAttributions": [
+                        {
+                            "displayName": "satish sharma",
+                            "uri": "//maps.google.com/maps/contrib/104843391310054585155",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUs-HJAgkoQfJenH2sm8fS__CMabUkkjsAoW8wixBXjcEU=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJZAs0-H_WCd-rfY2FeufWrf85pRAOwvv0b2znRkT_X7rQEaiVWowOiuWlFqqHsjScbZrdFsFj9V1-2nIQWopBS86e22EC_vVCnHPWmPFWtzF3XEUlcTxx4BcHqOjqNb1w_9-Awa9kdCZ8rSaNrV7pKeBITGuHRzYfy7",
+                    "widthPx": 1600,
+                    "heightPx": 721,
+                    "authorAttributions": [
+                        {
+                            "displayName": "satish sharma",
+                            "uri": "//maps.google.com/maps/contrib/104843391310054585155",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUs-HJAgkoQfJenH2sm8fS__CMabUkkjsAoW8wixBXjcEU=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJa1lQSgh7wvWphk4ecb20HcUe-aWgTh7eLjDZCyWceoOQBlGqDEHhvpDMy1rGI721lsYDxVIWNc0MkolQMyqfD8aJKg_YnmV_09zGBbSs3q4XTE9pQ7Ow0U1dZL-ANtp_krZ_ka0BRQjlNpIuR-h1GLvMwOEZkxPy3h",
+                    "widthPx": 1600,
+                    "heightPx": 721,
+                    "authorAttributions": [
+                        {
+                            "displayName": "satish sharma",
+                            "uri": "//maps.google.com/maps/contrib/104843391310054585155",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUs-HJAgkoQfJenH2sm8fS__CMabUkkjsAoW8wixBXjcEU=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJYkxG2FHg6YQJ9o1zkqv_HBJBqZSNkuoiDi4ULhOiGblzJpnxNmVtbYXwG2-L0bXwt27vCQBxnRIhDvIQavHxnvcqNZQtq_5C5qXHEYsHrOLETD8UGb-PErBpKSqCvGhaZqeQfAvboOZjiWW3zelDdknF_ZxQYdYuq9",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Rishabh Kumar",
+                            "uri": "//maps.google.com/maps/contrib/113053036642432928982",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX7wSEYuPvFrYGKyL_ph_5rQrz27E5kdCyzmmEzOXfn11Q=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJaGJmem-mDsPNNsrS38a2ss3kzIiaeemcY-vQLH_nihWaYlpIXe22csUYfNJi3NvaO-nNeKFF_F9DCFH7ZJIL0Z_mOGkZppT-NLWBvV0jrqIAMK-6W9siB4Sj4ToKFTtuEuxjbUAREaqVshe9RFjTUuBL8J_Sb2KchG",
+                    "widthPx": 721,
+                    "heightPx": 1600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "satish sharma",
+                            "uri": "//maps.google.com/maps/contrib/104843391310054585155",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUs-HJAgkoQfJenH2sm8fS__CMabUkkjsAoW8wixBXjcEU=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJbuWljmzarCSLyRjK92h76RX1M1ewV2-4wPCPUFJo-QWn6fdeY3d3OzvsQfPZU9faWjQppnV1s4MMk3juGQFo9jVYz8Qh8XhE8-046D42TPOuUhSS9xz0yaltnly9I3oN0fbAyK4oR03MojYgMMsem07uhteJiXTaDY",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Farooqui Khizir",
+                            "uri": "//maps.google.com/maps/contrib/116301445202821123434",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVzZyL__BZQOBhQKkuFs5ayqoaD86B_JaTyoYqRcZrMERgc=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJy-0tbEf7DDkRDIU8tl36n6M/photos/ATplDJZS60AhHO0DhAyJ-KAgmT5WZRVbZ7IB32T0JL0VrD9q21QO607QsyYB_SEa22bkvDSG9hs2nktktC7QPzNflGWWwpHEP_0psKkpmCSx-Et79LuulletGOMOfP6fh_iqrJoWX4LKtdeSToCH2jvcBHdP-A-j-59ZVdJi",
+                    "widthPx": 4624,
+                    "heightPx": 3468,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dr Dheeraj Maan",
+                            "uri": "//maps.google.com/maps/contrib/116669311611899088713",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJwET_t7niUAu1eXOj2QSyuJtpxXbYnqyKMNShyxcH0iLT=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "formattedAddress": "E 1/6, N Pandav Nagar, Mother Dairy, Block D, Patparganj, New Delhi, Delhi, 110092, India",
+            "location": {
+                "latitude": 28.6178834,
+                "longitude": 77.2870136
+            },
+            "displayName": {
+                "text": "Ather Space - Electric Scooter Experience Center",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJblm7IKUoQH7F9Y4qJIbXdaQ3nhifkXYoZCgm1jcJTPnfhnblR9APhXV1edg1-cUD35U4KP5b0VRnj-IQDYE7t0Ti7eg5ktWeEb1KtNRrZscOmk5_eyhgwDHcJTz01sTwO4XelV0gfO7R1tzF8GHUNg-OBbecE3b8fD",
+                    "widthPx": 6000,
+                    "heightPx": 8000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aryan kr",
+                            "uri": "//maps.google.com/maps/contrib/111797407668956562073",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWk3okvTY04425IhJJ0oU4RdjBuLI3ymoys4PoKnavWWg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJaeInj9DzfNUtiTobxIHp9rjjDOxBW6iAeu5jnoOHmrGCfn5-zfwy6gKrs_v4TE9sIAMN0xCyaIZvq-Mg8Z9uaWPM5LxJJl8KFnIg52Ct9qvk8VDDB4TX3ootnJK5PsEYpDt0VMg62tEStHu3BqG5K_AyKVSGosMCE_",
+                    "widthPx": 6936,
+                    "heightPx": 9248,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Irshad Ahmad",
+                            "uri": "//maps.google.com/maps/contrib/102534592701773811345",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX2sU-fgkcDshj095jUXpU8kEbb6gAbGcLPTTDKJrErTbA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJaEkPEsYc4XyzeC2RLio9ywA0ABeZWsT2-fvtsNgHw4H4n8gmOsl7ONunICDuUv8gasNr2FnkoX30hqqvUUnS-v-nDGyzp72qtM-Bcv80U09UOfUbUhgFIVpnaemJA_iznajD1jI9vnRbygzzSIHJLO8BynssFN9zNN",
+                    "widthPx": 6000,
+                    "heightPx": 8000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aryan kr",
+                            "uri": "//maps.google.com/maps/contrib/111797407668956562073",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWk3okvTY04425IhJJ0oU4RdjBuLI3ymoys4PoKnavWWg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJbM8q-asyJ1ERYJvoORRYQ_Iab6nNTma6aVsmzsTRNNVoABch-o4kW-jpvnP6TE2dqgiYMURV0PnSG6bbsthneqB9bv0Uhd2G4woceUggYb13gM3jIanGcPGeY0Iy3QZiavC46zDxeVLkUEe9JO8enoXlaJRT7QRnUq",
+                    "widthPx": 6936,
+                    "heightPx": 9248,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Irshad Ahmad",
+                            "uri": "//maps.google.com/maps/contrib/102534592701773811345",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX2sU-fgkcDshj095jUXpU8kEbb6gAbGcLPTTDKJrErTbA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJb_3Pbr9drlMsKX_s7MWU_VXpOWp_nefN4ePcwYQNFDwcmvgZaRXtSAdBvJ3L85ctwFRW-f_rsr7PBzRVj7bYqL_HzOZ1ZBryGeKlK5jtcXYotV8IIK3jqGHEDD_HkX2m9Gtq74xbL0Iab6ZV2_MTYFZrwK3-eMI9fy",
+                    "widthPx": 1536,
+                    "heightPx": 2048,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aryan kr",
+                            "uri": "//maps.google.com/maps/contrib/111797407668956562073",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWk3okvTY04425IhJJ0oU4RdjBuLI3ymoys4PoKnavWWg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJaf4G1BN07kPxWuelnBccv85C_xYVVaJwKkIt9s6GtLPP1qeHp3-t1n8YUliC9za2XUvPyqkbOfQDpxjRu75sQeKYyfGUmn897LP0St7TwAcTPt7VGW_33donnEi15cAGcfKd7EBi4zfKM3qfFZ41_wPszL_1-eNIEY",
+                    "widthPx": 6936,
+                    "heightPx": 9248,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Irshad Ahmad",
+                            "uri": "//maps.google.com/maps/contrib/102534592701773811345",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX2sU-fgkcDshj095jUXpU8kEbb6gAbGcLPTTDKJrErTbA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJYprDbwbFh3EvQpDWtexOpvsnrFO4YSXFnRCbG-ERCkO9FxG_UX7JeX5gJ2AZVqgR1H2EwynrmEIVHo4ogGRWEHb50P3osTcelMSR2dLXfdbFtz1OXbW6Fhk6z41eF6rmHaE8O6nTeoLYeurxBA5G3Rbw_wLZ5RIOUg",
+                    "widthPx": 1536,
+                    "heightPx": 2048,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aryan kr",
+                            "uri": "//maps.google.com/maps/contrib/111797407668956562073",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWk3okvTY04425IhJJ0oU4RdjBuLI3ymoys4PoKnavWWg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJZK-fQ1h_CRopTJ2YpQFb_zRfxdHfoqyDgwPT4OF-sGHbBuooACDQZCvAPUqM-zRHAg6qnD0zretIjRgqsLj745EcikFnd0ftCHR-444xR_Y59KCNk3-BX4ci8kZWXnY6upWMtBhH6tsvSbejq8j4ffaFBaJKNNcRTr",
+                    "widthPx": 2268,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Brijesh Nagar",
+                            "uri": "//maps.google.com/maps/contrib/102505585569812287820",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI4KCiWmOlfulbb66oEJoXvvdMeDF3fFv_GuxRHO2_lWE8=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJY2suvI4MEsW_kZUntS_tgIoZBgaqblOI4kVbZXo4bNdg7Pw5MRaB1UHeOuRD3oE06DWTCNSuMoEoTKCwUg4qrZhx6BSadJHLWT-cEcpM1xHfgYFzvyMkWSUZAzOLmyHfwz25USMe34upoqcbghhUrWp6TpaE_n8D4u",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "VJ technical news",
+                            "uri": "//maps.google.com/maps/contrib/109637816485539357934",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUucyYCavEVyiKNW3C9dxdPScovcBigmrKp-Jw41SGgrZk=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ36sfMKLlDDkRCVoFaO3qeOk/photos/ATplDJZTYlcGYWMjO-GtZN15sP_g5qIpPrIcWMK-cuLzit4EScdnOabgrNxgRk1xUysQlfX_3WnXc6pG-PWkeK8jU0fOAB3NUPSxvG-t6wska9gFF-nR7r6zr5VYD6qV57Rbzt8TfQEK2Ax4oEUTu2u2EaAcaKlQp-RBvzT1",
+                    "widthPx": 6936,
+                    "heightPx": 9248,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Irshad Ahmad",
+                            "uri": "//maps.google.com/maps/contrib/102534592701773811345",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX2sU-fgkcDshj095jUXpU8kEbb6gAbGcLPTTDKJrErTbA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "formattedAddress": "Mother Dairy Marg, near Swati Apartments, I.P.Extension, Mandawali, New Delhi, Delhi, 110092, India",
+            "location": {
+                "latitude": 28.6215278,
+                "longitude": 77.2935432
+            },
+            "displayName": {
+                "text": "PlugNgo Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJYy-1_IqXIDCp4j3gpFeJAaIKmYw8_ggfoDI2vy2Nv4u_DZD8nAF0gNjfR_dkBfk46N8N7Qay8DeRbgsMXx7fynhbQrS5H5hXo4c3JXwN1vAba6UdVc0ztv-6ZiYGV1oGre6TrCtDPrty6ergMq9uvjZyBaDfAMySLP",
+                    "widthPx": 2252,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bobby Roy",
+                            "uri": "//maps.google.com/maps/contrib/114250007292213833570",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVaoXAepdUKCPEonYQ8vDmcHOh2l_NEpxJxWbDPPLEFazJ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJa6kPvdGJf6uh9bcva-McdWV7QzXfToBDPIpj-Daf-Cab5wc0TxfwVC7B0iznhql_xgSf-84Nrkf8m1YQjcwuu5KZfKPIeY3MwIAMdaq5IGugmc3kuyzZYfRjUAL_p3QLg4SFKFZL38Bg1zLd03GMq6AY8ANcdMJlFz",
+                    "widthPx": 4000,
+                    "heightPx": 2252,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bobby Roy",
+                            "uri": "//maps.google.com/maps/contrib/114250007292213833570",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVaoXAepdUKCPEonYQ8vDmcHOh2l_NEpxJxWbDPPLEFazJ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJYpJtr9cuWwtEmCYiyNfBFHhECsYRxqkLzosb_vvtDLQt6DQnLROWuM7fdiIUt_CraYHIusoSPYN-rqMoeii_NRaLisS_oTfZ90HT3_oWDu2KADTByDS0vnmnAbm3A7YGYQn0OL0Z2bEEWD8VFz9LX0161TBBRE45VB",
+                    "widthPx": 891,
+                    "heightPx": 576,
+                    "authorAttributions": [
+                        {
+                            "displayName": "nikola tesla",
+                            "uri": "//maps.google.com/maps/contrib/112564941534340804957",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaNOBzwmn41v5BbETWMjdBJpqo5Aal-jOZgOUa4wE66A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJYZkmK_L7dSEhKq08Aylje1YgyL3iYWtAazmszx63e-QA0NT6hba14AHm9qAurVbKmMZX6u8DbK0GuTTasHJDIKcz6JtfMd_ZRb3hifqURWJWRjD63UeJQDEYXJ4YhYEt_V7vYpIZ7gqKvi2AFl8Q9c-a4OEVYorNtX",
+                    "widthPx": 576,
+                    "heightPx": 1024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bobby Roy",
+                            "uri": "//maps.google.com/maps/contrib/114250007292213833570",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVaoXAepdUKCPEonYQ8vDmcHOh2l_NEpxJxWbDPPLEFazJ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJbov510pB1EI0UXId5ceJDoOpEyb68yIfDsV2mRGkru33KYQzH0PyQYFcNBGt-PdNwb8Yowf2oYbke-jQc34mjdT5bhMNULT1js8RwrjECH62n9Y6-GIy1P9vB-AsGGwZQeP9W9adNQLATH2G9TOrmI7O9WOJ4EYdb9",
+                    "widthPx": 3146,
+                    "heightPx": 4624,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bobby Roy",
+                            "uri": "//maps.google.com/maps/contrib/114250007292213833570",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVaoXAepdUKCPEonYQ8vDmcHOh2l_NEpxJxWbDPPLEFazJ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJZdz163jSJAenq_2ow69wZSQWC3V0RJzuIwhrM-GgR0Z7WXxX5jlMWC_O1ZG_pAlP3dOYU1cY61yKFu4fSHyExRcMUBnro99FqjhRAbZZUfvNxCLMlTgr4MWs1jGQp_qxp4zaQzObDD0VsgiORqk1xkP3kGHcfauvy3",
+                    "widthPx": 3968,
+                    "heightPx": 2240,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Rippy Bedi",
+                            "uri": "//maps.google.com/maps/contrib/114754091124761744850",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUTfbpnVbYx7XHWIA_4c9IK_O8vQ0WZZHQWToInU72e7bw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJbODK8KJGK8y3RoKOwrzUI8Wh639XmZXPDvDm4siCn8eH2sOcr2phbFxyaO2nGkpcWPKgXeevhApepldc-JSKrct7NaVPgS8Zshrx6spLweOt11krB4NDh8S3tCuigGI2Jsw1CW31_UL8ESoG3wvFEeZ7Fusr4LngUm",
+                    "widthPx": 2604,
+                    "heightPx": 4624,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bobby Roy",
+                            "uri": "//maps.google.com/maps/contrib/114250007292213833570",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVaoXAepdUKCPEonYQ8vDmcHOh2l_NEpxJxWbDPPLEFazJ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJZ_bUccFvW7pLVLGoJxNI1Mh5CFRn_M8EWUNLvannHThyq2XmTEbFe7dZEHVxEEsNCgiC4wMVn4by_-BWX8mssPJlBp4QJwb47eyWpFS9B-xO32gU8qp1ACiZGQRnnJZbCYwuIEVty2AXZtogDNKutjV5XZo2aS7nvl",
+                    "widthPx": 4000,
+                    "heightPx": 2252,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bobby Roy",
+                            "uri": "//maps.google.com/maps/contrib/114250007292213833570",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVaoXAepdUKCPEonYQ8vDmcHOh2l_NEpxJxWbDPPLEFazJ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJaZD9x0CH5hPf0w4EQYqdzUFV6mwRSncQ4PoU0fBEoTsTT0VizdQyZ5v6ppvwL3gM8BRKFoCXBIdiA7J8NBV2IlFhbSwDh35YvR46g8l8vBCG1geQijUzJurVaBcT2H0KKY-D138WfE-UufxDSwx260j2u-qXvdTtio",
+                    "widthPx": 2604,
+                    "heightPx": 4624,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bobby Roy",
+                            "uri": "//maps.google.com/maps/contrib/114250007292213833570",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWVaoXAepdUKCPEonYQ8vDmcHOh2l_NEpxJxWbDPPLEFazJ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJJYvZ1J3lDDkRT7fdQ24FHBY/photos/ATplDJYOF6zozFo4nSC4NbrZlHMY_O6Zoy_NsfA8gkli83ZlEkHk_Ccj706P6Il6dQup0XoxelkTN5zr6H1A00j-cCWEp1OwaqFfzmGOQQ1CRH_CsfiyjzdCKTDWvu6siIjMbXFIz7VLOl6Bw5godehcR9UfJSXr_cCx4TFu",
+                    "widthPx": 875,
+                    "heightPx": 586,
+                    "authorAttributions": [
+                        {
+                            "displayName": "nikola tesla",
+                            "uri": "//maps.google.com/maps/contrib/112564941534340804957",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaNOBzwmn41v5BbETWMjdBJpqo5Aal-jOZgOUa4wE66A=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 5,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_TYPE_2",
+                        "maxChargeRateKw": 43,
+                        "count": 1
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_OTHER",
+                        "maxChargeRateKw": 15,
+                        "count": 2
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CHADEMO",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "FC-5, Road, Film City, Sector 16, Noida, Uttar Pradesh 201301, India",
+            "location": {
+                "latitude": 28.5662943,
+                "longitude": 77.31706330000002
+            },
+            "displayName": {
+                "text": "EESL Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJKzZsV5TlDDkR1obpuuR9Fgo/photos/ATplDJYl5bxAIEH2eNslU2hQcqTM_D8O4wHKR2VrqbkwrGGl4EvshyH4ZCIMsA2jwFXZIknIgynyNGEdo-fts8VaOajwjs8nVZj4ZzKX2SPB5g64TDG4ckg7_Cp_dOKDU3hXmE1eXc_FOdv9RKeM2qjZZX3CQHbZJyyz9nip",
+                    "widthPx": 4000,
+                    "heightPx": 2250,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Pankaj Chauhan",
+                            "uri": "//maps.google.com/maps/contrib/113040201302937065955",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTqQjjlp6aCDzw2nl_aWUGPMqE2kC67vi6rB8ZnvNeiw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJKzZsV5TlDDkR1obpuuR9Fgo/photos/ATplDJYV6KMkcBYSztGhVYqGtHJQShBw83qYfEh5WHNd9L7VhpcLXqukhhVIyv_YlHSMNoXuFe9QicodcFQusD98D22SY7mZKt2QJINoG3na220fFlK5epRlcRCX0xGw83mfFjrYXeCxd65-uAHkqndVCoYhjQVhYWhJp-jN",
+                    "widthPx": 2250,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Pankaj Chauhan",
+                            "uri": "//maps.google.com/maps/contrib/113040201302937065955",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTqQjjlp6aCDzw2nl_aWUGPMqE2kC67vi6rB8ZnvNeiw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJKzZsV5TlDDkR1obpuuR9Fgo/photos/ATplDJZycRcseoLLGH7i5erG_V35bbgvv-TPOKXq77TwUDT64yWzWiLN8lhlIIGMK37WFraRbh3t9h0qd5NXs1JK-hEpwytq9f9oQbNEYzS0pZxfWfh4WGvkozaaqzXUN42wzxLnF5z5S7AiQAzVFh9sjn6hBrDdwhfyFc-B",
+                    "widthPx": 4000,
+                    "heightPx": 2250,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Pankaj Chauhan",
+                            "uri": "//maps.google.com/maps/contrib/113040201302937065955",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTqQjjlp6aCDzw2nl_aWUGPMqE2kC67vi6rB8ZnvNeiw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJKzZsV5TlDDkR1obpuuR9Fgo/photos/ATplDJal_6Hr1pTYva8YTVAkskZgGvxhWcKoapNI6BPtk3JBxwt7maLrlK9PqydxJ5ywry_MGbUcqWisAtltjvbOImkgaQDMAjp08kQC6W9LLmcU1-ZWmWp0rNaq1O6CFsidpvCyCqbZi5Le30c3VsPXjj0-uXQ6Jc2fHHSp",
+                    "widthPx": 2032,
+                    "heightPx": 4624,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Vinay Prasad Technical",
+                            "uri": "//maps.google.com/maps/contrib/107478021489388090821",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXpxeQzCXqF4uKUzkiBNQNl01woE_tfahel5TmaolNkM89j=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJKzZsV5TlDDkR1obpuuR9Fgo/photos/ATplDJaHRwoKtPUa0ZtL0rMVZXFj0o5K_egCpR0twM5KWDTZ93bUhQwyuIOzT5_sT1OG6hnN8_d8CSYRDR9x5N8UmJ3ulncxFnWmI3ZCa8KcFlLuNycomk1VvlSr87I6DC7INNO2F4OfiWC8ZQcxsBoAJ8azziYunHj2ccMJ",
+                    "widthPx": 2250,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Pankaj Chauhan",
+                            "uri": "//maps.google.com/maps/contrib/113040201302937065955",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTqQjjlp6aCDzw2nl_aWUGPMqE2kC67vi6rB8ZnvNeiw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJKzZsV5TlDDkR1obpuuR9Fgo/photos/ATplDJayfZcLHJBLkqrjd2vIHo02Tl534X86YHgL6SyxOENPtOVoHEOTJpwKT8sWy9Ybc8F5IAMQwQsolbOAu4od3naIjZe72KjfDkIzcRg0WMpl5B6szfiPHoLE2IGrbQMGq7bkiJhAn4SH-IWwA7L4DWGqMt7uY3ciyy_f",
+                    "widthPx": 2250,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Pankaj Chauhan",
+                            "uri": "//maps.google.com/maps/contrib/113040201302937065955",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXTqQjjlp6aCDzw2nl_aWUGPMqE2kC67vi6rB8ZnvNeiw=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 1,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "D-2-3, Dallupura Rd, D Block, Sector 8, Noida, Uttar Pradesh 201301, India",
+            "location": {
+                "latitude": 28.5943549,
+                "longitude": 77.33210849999999
+            },
+            "displayName": {
+                "text": "Fortum Charge & Drive Charging Station",
+                "languageCode": "en"
+            }
+        },
+        {
+            "formattedAddress": "C39, C Block, Sector 8, Noida, Uttar Pradesh 201301, India",
+            "location": {
+                "latitude": 28.595579999999998,
+                "longitude": 77.3286959
+            },
+            "displayName": {
+                "text": "Chemitech Constructions Pvt Ltd",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJY51XAd14wnD6SvnpzsgtkQZZvuOa8ZSGk-SWtl7ZLdS8hVq6LZWl-x8CC6DOxmmQY401WEBVQYWD4dj5uWMl7jN-YqnukE0UEWvCFd-95ig0iK-6p_PrlpBczBz19whhjaPzY6SrLqWgt3f0LBXtbksw57sxIhVLW2",
+                    "widthPx": 600,
+                    "heightPx": 540,
+                    "authorAttributions": [
+                        {
+                            "displayName": "hot boy",
+                            "uri": "//maps.google.com/maps/contrib/117787577595032212025",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK71Q3goKbD20rGCGV7FY_UeeVll_csdsu83SgaOYfY=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJaYA5llou1T4TZmdP6_HHmahYzWzZFInJuKsq_tNMC0Lz-ps4STSBunddnmKnhsb1DZSVpxvTRRRSFmwcgIDKylfg0KODXUiUl8jiAw2eCo1sl3SdsFRi1iKqpYT19UZdZ0TCQDqtbEuWz-BL3SPLQHJIaHymIS8wLF",
+                    "widthPx": 400,
+                    "heightPx": 400,
+                    "authorAttributions": [
+                        {
+                            "displayName": "hot boy",
+                            "uri": "//maps.google.com/maps/contrib/117787577595032212025",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK71Q3goKbD20rGCGV7FY_UeeVll_csdsu83SgaOYfY=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJZGeZszhGrKK8xIsihkzkU4rjvf2qrM5Qlc0usvTMVuW4k7vI5xxt49zBjQyFZ92nYx_ClyK0ABkdo6-jw40PzPl4AKvIrBmjioUWiuqmJJafz0sHe7CytkO_kEp_Rv7SopeYejIenHHc5kdFSayVB9c6blcdoPYRUE",
+                    "widthPx": 960,
+                    "heightPx": 960,
+                    "authorAttributions": [
+                        {
+                            "displayName": "hot boy",
+                            "uri": "//maps.google.com/maps/contrib/117787577595032212025",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK71Q3goKbD20rGCGV7FY_UeeVll_csdsu83SgaOYfY=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJa1oTawf6ypnf1VahtDQYnRXijffWxpYrYqhisxPSGNLVT2_ApbYssownOlXP5fnGufPqkJa1fqA49rBEpXZ6hH40GP6j13XKxXBc9-WVGFT9_kNXOnl8xpPZOcC7fPEHC1BNggztfp_ELdNndX6aFStKmiLQpsKpAq",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Satyam Pandey",
+                            "uri": "//maps.google.com/maps/contrib/113193133306940712222",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocK8nF0t7xqZ6p4pUqGUWCXKnnC8kas5yK5HuqC52c7e=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJYLx-QIC3eziUVWGroO7h9bGiUkzelZtGpHQrbT1qpq324yuhfyjnoK0JpNfjUWGfIvK8zlpedQxamVpcn83d6EYywfqppU4ECjtwO4um8L19mku9F5bO3l3z1AjwnCflWFp0PomXRM8HUyzdc77jLIl6X1PZse07nM",
+                    "widthPx": 650,
+                    "heightPx": 650,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Chemitech Constructions Pvt Ltd",
+                            "uri": "//maps.google.com/maps/contrib/111241953159647654973",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMfsZvgb2V1NrWO0r6ez_VzV2MJ8WsyfnTmC0b05Eti_Q=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJZJMR6OVQp-SbGL4Rf9wCFtO7e-GMM9aAdBGTXDtdi8Dp__NRcj4CdrcKd3iM5iklS_HFPwMjwQuTfBQPtlv62Nkba7ySDi5sJ8RAcr16ZQBxsWrPCB0UVuAes4qniEKudWRWERq67gr99Uehrq3pfcc2OoU1KHBKJR",
+                    "widthPx": 650,
+                    "heightPx": 650,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Chemitech Constructions Pvt Ltd",
+                            "uri": "//maps.google.com/maps/contrib/111241953159647654973",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMfsZvgb2V1NrWO0r6ez_VzV2MJ8WsyfnTmC0b05Eti_Q=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJY9FNY0IgU591awaRn8k8vTfc61WGIuWcJZZPUCS21PZbrijc4R2bgS_-wE1eKtVXuJkykITzxS3RgdqV34My-YXtioef6XW-1cYy-wZFs1mau2jd10nL-phzGGwVKhxABLHxccjsLjTbhIm0blLNZ3NM9BQp3USEcH",
+                    "widthPx": 600,
+                    "heightPx": 600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Chemitech Constructions Pvt Ltd",
+                            "uri": "//maps.google.com/maps/contrib/111241953159647654973",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMfsZvgb2V1NrWO0r6ez_VzV2MJ8WsyfnTmC0b05Eti_Q=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJbi2WNToWVWbl2fUkFPI-1JInR7NbFro3Tgo4rdMAuHuWc8pnq_TTDVpCjO6UKkCm6lRGoWUIjMCXTgRgfNtdbHLePBXIbTyvWSfgTyCG9vqqIdUqyRtPfTgCaLlvH94_h4cI2VtGKuh2x7n1fNIAnPmENLmbXY14Z2",
+                    "widthPx": 600,
+                    "heightPx": 600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Chemitech Constructions Pvt Ltd",
+                            "uri": "//maps.google.com/maps/contrib/111241953159647654973",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMfsZvgb2V1NrWO0r6ez_VzV2MJ8WsyfnTmC0b05Eti_Q=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJarBLfmJeh8wdLlouz4pgQBzogrhZrOTl6h_2lWwMv4cHD2-pzVVz5FXtUK4rZ9YFTXJez6W4oThE6YBQkkzwmHnHjkAJfOdppmIvGiXcxZEN2Zk4wzu4DgCC2lHlUwdVah2ITSDnMnuexix1Tax0cjiQBgdwbybtJ_",
+                    "widthPx": 600,
+                    "heightPx": 600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Chemitech Constructions Pvt Ltd",
+                            "uri": "//maps.google.com/maps/contrib/111241953159647654973",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMfsZvgb2V1NrWO0r6ez_VzV2MJ8WsyfnTmC0b05Eti_Q=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ____P_zkDDkRAAtaf0StuzY/photos/ATplDJb7ixT2nf3atuD_cWoO3Ht0deZDmOiGTWk6Tbk1wy75C-MZaGb0HGrIDCXH0WZoNq26GVGuDPaBosG9F06Gja4M9x9_gb3oVMzWLThh8eLo9UGD0so8fccTwWUBjfA9O5MnMr1pc19pGyUuV6rk85UgL-BXpVM8qUYm",
+                    "widthPx": 820,
+                    "heightPx": 360,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Chemitech Constructions Pvt Ltd",
+                            "uri": "//maps.google.com/maps/contrib/111241953159647654973",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVMfsZvgb2V1NrWO0r6ez_VzV2MJ8WsyfnTmC0b05Eti_Q=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "formattedAddress": "B-147, B Block, Sector 10, Noida, Uttar Pradesh 201301, India",
+            "location": {
+                "latitude": 28.590744200000003,
+                "longitude": 77.3288922
+            },
+            "displayName": {
+                "text": "Battery Smart",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJp1TYGWDlDDkRU761YISmKdw/photos/ATplDJaIDLPvF8gpolZctoxKmtCKdOUE4cN3YTvw4W48jt2MPQdcZchF0O3l372ZmvdIS_nNIDHU0dbVdJCiHSo6pqgx21AtklWW_u4xM2lLN_TVl6KxuQWxO9__rX-aQnoyfpoHzJok82yRUjmz2PVaXnsmuGGvZmyzkB1V",
+                    "widthPx": 1600,
+                    "heightPx": 900,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Battery Smart",
+                            "uri": "//maps.google.com/maps/contrib/117193138458274175740",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlYu5CWn1jwJGIAWRk9cQoSyWT2FCVW1olmL29fXmuvg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJp1TYGWDlDDkRU761YISmKdw/photos/ATplDJZDnCqgkCorSOo7KfwLfZL6LN3W87YdTFoGfFiLIjUB8GFljfyE6mpQv-7geIUmn9vmlUiCAxSjDpyh2Gz8wwxa5-P58A2zkj75goi1STN8AI332Y2kM9CCGQ8L-XUg8q2eUePZCl0vz_3YLqAWO9mvnEKzRKTC8tOB",
+                    "widthPx": 1600,
+                    "heightPx": 729,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Battery Smart",
+                            "uri": "//maps.google.com/maps/contrib/117193138458274175740",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlYu5CWn1jwJGIAWRk9cQoSyWT2FCVW1olmL29fXmuvg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJp1TYGWDlDDkRU761YISmKdw/photos/ATplDJaSW49uM5UaBkU2nsWdUMoyB_oxtWIzltqWRvPOZHqesM95PaLJO0F8zBixJhtpoJqF9C0ZKVE5IdFxX5Ol_-z3StAtP9ypJMIDrkPwwBU82tpaA9cI_5TKAltYFosdLoz0DhEZgPFFArFACLQXe52b1M1Us6wJUp4J",
+                    "widthPx": 1600,
+                    "heightPx": 900,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Battery Smart",
+                            "uri": "//maps.google.com/maps/contrib/117193138458274175740",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlYu5CWn1jwJGIAWRk9cQoSyWT2FCVW1olmL29fXmuvg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJp1TYGWDlDDkRU761YISmKdw/photos/ATplDJZPy2v5p9sJ94GYqeYTsjfNLy3iK5CIv6Xpeyvau1l_2PyhlZw-VAlWf0rE2pXy5sYm2orIHDWAYeneofiJWOWMWTdOwz4v--9MgDtk3mdCFwWlVJ2vVrQ38oP0PF8l7wpGrwpCY8vKeiJdQLEJiTOy5Jr5_vD0iURk",
+                    "widthPx": 1600,
+                    "heightPx": 900,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Battery Smart",
+                            "uri": "//maps.google.com/maps/contrib/117193138458274175740",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlYu5CWn1jwJGIAWRk9cQoSyWT2FCVW1olmL29fXmuvg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJp1TYGWDlDDkRU761YISmKdw/photos/ATplDJaLeKlMFLhK-zz8wRB7_lw_horC04Bsy5rpgb-YDgZ9rUTUZ2XvqV3o_K8CQIZnwFU7Zi0V3C1G6fWxJqVSaermKN1fiqkfjqw5wqOcgmlQM-UnALPt9ol2hOHzbo1cg1k_VtXWzEtG7thF-7sOIQa7qVGELOpV3ld3",
+                    "widthPx": 1600,
+                    "heightPx": 729,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Battery Smart",
+                            "uri": "//maps.google.com/maps/contrib/117193138458274175740",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlYu5CWn1jwJGIAWRk9cQoSyWT2FCVW1olmL29fXmuvg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJp1TYGWDlDDkRU761YISmKdw/photos/ATplDJa6BsNYijGA2Fq2cM3_kw954gm2wS-zJbJqHjoXJzHhTtA8QO6RYjhG9_naq32lO4fEj6b1CAA2KT7ASq9K7IjdaKlVhnqQhube27Ldue2YcsGoZzs9BCL2OU5cuqNX_AfFFkK4zOLng8KtzcW582CDAP1p3bGEr3U-",
+                    "widthPx": 1434,
+                    "heightPx": 902,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Battery Smart",
+                            "uri": "//maps.google.com/maps/contrib/117193138458274175740",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlYu5CWn1jwJGIAWRk9cQoSyWT2FCVW1olmL29fXmuvg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJp1TYGWDlDDkRU761YISmKdw/photos/ATplDJZB6vWPOCL5Q0hM1-x1_aBUgicG5INREMv-UVlKDZ7EIJzewNErKL-DecaThX2epzv82JsabcJgNmA-Ixdnoql9yGzqXw29kt9DqZ9DGf1POYZWRZGkN5tMplIu4Gx32KYl3CKe0FrA7YRIi07hMDlzsuZigEJ2onrs",
+                    "widthPx": 1586,
+                    "heightPx": 1099,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Battery Smart",
+                            "uri": "//maps.google.com/maps/contrib/117193138458274175740",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUlYu5CWn1jwJGIAWRk9cQoSyWT2FCVW1olmL29fXmuvg=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "formattedAddress": "H9Q2+8WX, Block A, Sector 33, Noida, Uttar Pradesh 201307, India",
+            "location": {
+                "latitude": 28.5883537,
+                "longitude": 77.35236859999999
+            },
+            "displayName": {
+                "text": "EESL Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJ1WOCB_PlDDkRhnWsufG_R28/photos/ATplDJZkHOwHuqMOAtl9jCwNWayNOdu4NJKTgpq-lTuezM9V-hLbqo3mCNTWPcJ-oxPSuZme02IyHDn7gHMWZ4LAOX1Xwk6C5rb18iOsgsyhpG59lTd92m-_QemVxXzxa-isx9jphzOndcuD1hmT6tH9ptFGX0ZDxJ8Qg8hY",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sachin Pal",
+                            "uri": "//maps.google.com/maps/contrib/111550705192587441484",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXzGIJTcFpznr6aaFblUz1ugrk5YNqiWKRgLRfHLCqAyeaW=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ1WOCB_PlDDkRhnWsufG_R28/photos/ATplDJZ21VwHGl2ilikBn-Y7fGWZiMV7V29cj77DPKd2xLS4pQxPztGJ8wPLmB3fnlyciPdaIONWCiv5eeocSS3daHf58_pUH4Im9sI7geSiGBxTt23f7NRvkvlrLRD3skK0WP3GJyzZslGiSvj_sGSsdzTeJrNlfCwGY5Qk",
+                    "widthPx": 2448,
+                    "heightPx": 3264,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bibhuti Giri",
+                            "uri": "//maps.google.com/maps/contrib/102883278366163952240",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXvY-D0PnN-1HBjwejEVBKe1SAiccd_QdNEGIoikvPELME=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ1WOCB_PlDDkRhnWsufG_R28/photos/ATplDJa6mFaXdG_obChGd2BAupmtL78bG0fHqF7HmYUuOQpKsvvt8PyDS5osCrJ9KeamloMYa8vjKjL7xbJNmNiQt1BahvzojY_A9Vx-1coHa8S0x8QejBkiHGYbjbkkBiwNsk_lV20q7IsCJ4JE3JbAsiNombiUp-xUKBWa",
+                    "widthPx": 1080,
+                    "heightPx": 2340,
+                    "authorAttributions": [
+                        {
+                            "displayName": "nikola tesla",
+                            "uri": "//maps.google.com/maps/contrib/112564941534340804957",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaNOBzwmn41v5BbETWMjdBJpqo5Aal-jOZgOUa4wE66A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ1WOCB_PlDDkRhnWsufG_R28/photos/ATplDJZzvnZL3v7qzfVa4KLnzmO47jz81R8jNjGxwdOufx4xVmeYIacSsfSe6ds9DjwtuvVmfmnYqb5xZFMWsBPa8_j69s0QZSb_k5zTS4Xfb2Quc4KodjNW9YfO85UgdMVcZoRnRkWznIijT83QHlogCXQUDSILNZXp-AfO",
+                    "widthPx": 1080,
+                    "heightPx": 2340,
+                    "authorAttributions": [
+                        {
+                            "displayName": "nikola tesla",
+                            "uri": "//maps.google.com/maps/contrib/112564941534340804957",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaNOBzwmn41v5BbETWMjdBJpqo5Aal-jOZgOUa4wE66A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ1WOCB_PlDDkRhnWsufG_R28/photos/ATplDJZRT5eH9PWKUMsOGRVCiD0Wpi3qFk8puwMSxBvXlB3jxe2hwJhe1qTlV8WXkMyGqh_jYIYKz_efebghwECWgpUtghGWQjC8DOwFZU1yp2lMsryIBCDnPBJsl-yObIwmmvV2KXjvCzrw9nDtqQy12d563qev_pvvjpeL",
+                    "widthPx": 1080,
+                    "heightPx": 2340,
+                    "authorAttributions": [
+                        {
+                            "displayName": "nikola tesla",
+                            "uri": "//maps.google.com/maps/contrib/112564941534340804957",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWaNOBzwmn41v5BbETWMjdBJpqo5Aal-jOZgOUa4wE66A=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 1,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_TYPE_2",
+                        "maxChargeRateKw": 15,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "J8C2+HPW, Mayur Vihar Phase I, Block E, Vinod Nagar East, New Delhi, Delhi, 110091, India",
+            "location": {
+                "latitude": 28.6214969,
+                "longitude": 77.301813
+            },
+            "displayName": {
+                "text": "Tata Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJ10x8fJXlDDkR-tQ7txvIDrY/photos/ATplDJYDdXxUu-VbDadI_edoKIMqe7Vm9S12OZJXuhXu2B2b1b3SjEhJ1cVfL5Ofg8xKjHY39f9p6W1rVi6m__GtmAB5FLzj0iNe5LgtsMmDvmshZz0hyH7bhpAx3O97aJxUWWTZ8GkFRqsY2FnRva60nEkfguP1cKQQmY-_",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nimit Nigam",
+                            "uri": "//maps.google.com/maps/contrib/101407768321516292861",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX_rqbRor4-yjlMbeYbGYTM6W_Jt_WSTGPLK81APIWANDQl=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 1,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_TYPE_2",
+                        "maxChargeRateKw": 15,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    ]
+}

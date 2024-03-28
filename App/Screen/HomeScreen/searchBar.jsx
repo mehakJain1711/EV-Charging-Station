@@ -9,11 +9,11 @@ export default function SearchBar({searchedLocation}) {
         placeholder='Search EV Charging Station'
         onPress={(data, details = null) => {
           // 'details' is provided when fetchDetails = true
-          console.log(data, details);
+          // console.log(data, details);
           searchedLocation(details?.geometry?.location)
         }}
         query={{
-          key: 'AIzaSyBRHxjgmW2Y3GkQXFOTXmkhuaiHADbWJ68',
+          key: 'AIzaSyCRZqpazh_5eX-gPdU76ZVMuCTHjtsh99c',
           language: 'en',
         }}
       />

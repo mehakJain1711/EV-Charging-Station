@@ -1,17 +1,16 @@
 import axios from "axios";
 const BASE_URL = "https://places.googleapis.com/v1/places:searchNearby";
-const API_KEY = "YOUR_API-KEY";
+const API_KEY = "AIzaSyCRZqpazh_5eX-gPdU76ZVMuCTHjtsh99c";
 
 const config = {
-  Headers: {
-    "content-type": "application/json",
+  headers: {
+    "Content-Type": "application/json",
     "X-Goog-Api-Key": API_KEY,
     "X-Goog-FieldMask": [
-      "places.dispayName",
-      "places.formattedAddress",
+      "places.displayName",
       "places.formattedAddress",
       "places.location",
-      "places.evChargerOption",
+      "places.evChargeOptions",
       "places.photos",
     ],
   },
