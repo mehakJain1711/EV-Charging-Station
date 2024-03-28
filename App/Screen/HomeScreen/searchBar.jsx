@@ -2,7 +2,7 @@ import { View, StyleSheet } from 'react-native';
 import React from 'react';
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 
-export default function SearchBar() {
+export default function SearchBar({searchedLocation}) {
   return (
     <View style={styles.container}>
       <GooglePlacesAutocomplete
