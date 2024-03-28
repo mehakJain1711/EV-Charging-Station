@@ -17,7 +17,7 @@ const config = {
   },
 };
 
-const NewNearByPlaces = (data) => axios.post(BASE_URL, data, config);
+const NewNearByPlace = (data) => axios.post(BASE_URL, data, config);
 export default {
-  NewNearByPlaces,
+  NewNearByPlace,
 };
