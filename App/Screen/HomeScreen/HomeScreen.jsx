@@ -30,7 +30,7 @@ export default function HomeScreen() {
     }
   }
     GlobalApi.NewNearByPlace(data).then(resp=>{
-      console.log(JSON.stringify(resp.data));
+      // console.log(JSON.stringify(resp.data));
       setPlaceList(resp.data?.places);
     })
   }
@@ -41,7 +41,7 @@ export default function HomeScreen() {
         {/* {SearchBar({lat:28.64,lon:77.21,searchText:"Evstation"})} */}
         <SearchBar searchedLocation={(location)=>console.log(location)}/>
       </View>
-      <AppMapView/>
+      {placeList && <AppMapView placeList={placeList}/>}
       <View style={styles.placeListContainer}>
         {placeList && <PlaceListView placeList={placeList}/>}
       </View>
