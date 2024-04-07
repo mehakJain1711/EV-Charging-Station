@@ -8,7 +8,6 @@ import Markers from './Markers';
 
 export default function AppMapView({placeList}) {
 
-
   const {location,setLocation}= useContext(UserLocationContext);
  
   return location?.latitude&&(
@@ -19,7 +18,7 @@ export default function AppMapView({placeList}) {
       initialRegion={{
         latitude:location?.latitude,
         longitude:location?.longitude,
-        lattitudeDelta:0.0422,
+        lattitudeDelta:0.0522,
         longitudeDelta:0.0421,
       }}
       minZoomLevel={11}
@@ -36,7 +35,9 @@ export default function AppMapView({placeList}) {
           />
           </Marker>:null}
           {(placeList && placeList.length) ? placeList.map((item,index) => 
-          <Markers key={index} place={item}/>) : ''}
+          <Markers key={index} 
+          index={index}
+          place={item}/>):''}
           
       </MapView>
     </View>

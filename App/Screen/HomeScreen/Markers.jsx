@@ -1,21 +1,25 @@
-import React, { useEffect } from 'react';
+import React, { useContext, useEffect } from 'react';
 import { View, Text, Image } from 'react-native';
 import { Marker } from 'react-native-maps';
+import { selectMarkerContext } from '../../Context/SelectMarkerContext';
 
-export default function Markers({ place }) {
+export default function Markers({index,place }) {
   useEffect(()=>
   {
     console.log(place)
   },[place])
+  const {selectedMarker,setSelectedMarker}=useContext(selectMarkerContext)
   return place && (
     <Marker
       coordinate={{
         latitude: place.location?.latitude,
         longitude: place.location?.longitude
       }}
+      onPress={() => setSelectedMarker(index) }
     >
+    
       <Image source={require('./../../../assets/images/location.png')}
-          style={{width:12, height:20,}}
+          style={{width:30, height:30,}}
       />
     </Marker>
   );
