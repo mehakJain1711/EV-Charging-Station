@@ -7,9 +7,11 @@ export default function SearchBar({searchedLocation}) {
     <View style={styles.container}>
       <GooglePlacesAutocomplete
         placeholder='Search EV Charging Station'
+        fetchDetails={true}
         onPress={(data, details = null) => {
           // 'details' is provided when fetchDetails = true
           // console.log(data, details);
+          console.log('Location', details.geometry?.location);
           searchedLocation(details?.geometry?.location)
         }}
         query={{

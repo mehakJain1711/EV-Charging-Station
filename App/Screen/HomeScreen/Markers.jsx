@@ -16,6 +16,7 @@ export default function Markers({index,place }) {
         longitude: place.location?.longitude
       }}
       onPress={() => setSelectedMarker(index) }
+      // onPress={() => console.log("Marker Index:", index)}
     >
     
       <Image source={require('./../../../assets/images/location.png')}

@@ -7,6 +7,7 @@ import { UserLocationContext } from '../../Context/UserLocationContext';
 import GlobalApi from '../../Utils/GlobalApi'
 import PlaceListView from './PlaceListView';
 import { selectMarkerContext } from '../../Context/SelectMarkerContext';
+import firestore from '@react-native-firebase/firestore';
 export default function HomeScreen() {
 
   const{location,setLocation}=useContext(UserLocationContext);
@@ -42,7 +43,10 @@ export default function HomeScreen() {
       <View style={styles.headerContainer}>
         <Header/>
         {/* {SearchBar({lat:28.64,lon:77.21,searchText:"Evstation"})} */}
-        <SearchBar searchedLocation={(location)=>console.log(location)}/>
+        <SearchBar searchedLocation={(location)=>setLocation({
+          latitude:location.lat, 
+          longitude:location.lng
+        })}/>
       </View>
       {placeList && <AppMapView placeList={placeList}/>}
       <View style={styles.placeListContainer}>
@@ -68,3 +72,19 @@ const styles=StyleSheet.create({
     width:'100%'
   }
 })
+
+
+
+
+
+
+
+
+
+
+
+{/* <SearchBar searchedLocation={(location)=>
+  setLocation({
+    latitude:location.lat,
+    longitude:location.lng
+  })}/> */}

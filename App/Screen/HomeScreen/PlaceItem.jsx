@@ -1,11 +1,23 @@
-import { View, Text, Dimensions,Image } from 'react-native'
+import { View, Text, Dimensions,Image,Pressable, ToastAndroid} from 'react-native'
 import React from 'react'
 import GlobalApi from '../../Utils/GlobalApi'
 import { LinearGradient } from 'expo-linear-gradient';
 import Colors from '../../Utils/Colors';
+import { Ionicons } from '@expo/vector-icons'; import { getFirestore } from "firebase/firestore";
+// import {firestore,doc,setDoc}from '@react-native-firebase/firestore';
+import { doc, setDoc } from "firebase/firestore"; 
 
 export default function PlaceItem({place}) {
     const PLACE_PHOTO_BASE_URL= "https://places.googleapis.com/v1/";
+    const db = firestore (app);
+
+    const onSetFav=async(place)=>
+    {
+      await setDoc(doc(db, "ev-fav-place", (place.id).toString()), 
+      place);
+      ToastAndroid.show('Fav Added!',ToastAndroid.TOP);
+    }
+
   return (
     <View 
     style={{
@@ -19,6 +31,10 @@ export default function PlaceItem({place}) {
       <LinearGradient
         colors={['transparent','#ffffff','#ffffff']}
       >
+      <Pressable style={{position:'absolute',right:0,margin:5}} 
+      onPress={()=>onSetFav(place)}>
+      <Ionicons name="heart-circle-outline" size={24} color="black" />
+      </Pressable>
       <Image source={
         place?.photo?
         {uri:PLACE_PHOTO_BASE_URL+place?.photos[0]?.name+"/media?key="+GlobalApi.API_KEY+"&maxHeightPx=800&maxWidthPx=1200"}
