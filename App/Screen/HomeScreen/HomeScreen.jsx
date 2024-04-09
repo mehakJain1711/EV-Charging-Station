@@ -6,10 +6,12 @@ import SearchBar from './searchBar';
 import { UserLocationContext } from '../../Context/UserLocationContext';
 import GlobalApi from '../../Utils/GlobalApi'
 import PlaceListView from './PlaceListView';
+import { selectMarkerContext } from '../../Context/SelectMarkerContext';
 export default function HomeScreen() {
 
   const{location,setLocation}=useContext(UserLocationContext);
   const[placeList,setPlaceList]=useState([])
+  const[selectedMarker,setSelectedMarker]=useState([])
 
   useEffect(()=>{
     location&&GetNearByPlace();
@@ -30,22 +32,27 @@ export default function HomeScreen() {
     }
   }
     GlobalApi.NewNearByPlace(data).then(resp=>{
-      console.log(JSON.stringify(resp.data));
+      // console.log(JSON.stringify(resp.data));
       setPlaceList(resp.data?.places);
     })
   }
   return (
+   <selectMarkerContext.Provider value={{selectedMarker,setSelectedMarker}}>
     <View>
       <View style={styles.headerContainer}>
         <Header/>
         {/* {SearchBar({lat:28.64,lon:77.21,searchText:"Evstation"})} */}
-        <SearchBar searchedLocation={(location)=>console.log(location)}/>
+        <SearchBar searchedLocation={(location)=>setLocation({
+          latitude:location.lat, 
+          longitude:location.lng
+        })}/>
       </View>
-      <AppMapView/>
+      {placeList && <AppMapView placeList={placeList}/>}
       <View style={styles.placeListContainer}>
         {placeList && <PlaceListView placeList={placeList}/>}
       </View>
     </View>
+    </selectMarkerContext.Provider>
   )
 }
 
@@ -64,3 +71,19 @@ const styles=StyleSheet.create({
     width:'100%'
   }
 })
+
+
+
+
+
+
+
+
+
+
+
+{/* <SearchBar searchedLocation={(location)=>
+  setLocation({
+    latitude:location.lat,
+    longitude:location.lng
+  })}/> */}
