@@ -7,7 +7,6 @@ import { UserLocationContext } from '../../Context/UserLocationContext';
 import GlobalApi from '../../Utils/GlobalApi'
 import PlaceListView from './PlaceListView';
 import { selectMarkerContext } from '../../Context/SelectMarkerContext';
-import firestore from '@react-native-firebase/firestore';
 export default function HomeScreen() {
 
   const{location,setLocation}=useContext(UserLocationContext);
