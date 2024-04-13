@@ -152,11 +152,11 @@ export default function PlaceItem({place,isFav,markedFav}) {
                     </View>
 
                     {/* Button for navigation */}
-                    <Pressable onPress={navigateToGoogleMaps} style={{ marginTop: 10 }}>
+                    <Pressable  style={{ marginTop: 10 }}>
                         <Text style={{ color: 'blue', textDecorationLine: 'underline' }}>Navigate with Google Maps</Text>
                     </Pressable> 
                      <MaterialCommunityIcons name="navigation-variant-outline" size={24} color="green" onPress={navigateToGoogleMaps} />
-                    <MaterialCommunityIcons name="navigation-variant" size={15} color="green" onPress={navigateToGoogleMaps} style={{ margin: 10,position:'relative' }} />
+                    {/* <MaterialCommunityIcons name="navigation-variant" size={15} color="green" onPress={navigateToGoogleMaps} style={{ margin: 10,position:'relative' }} /> */}
                 </View>
             </LinearGradient>
         </View>
