@@ -6,7 +6,12 @@ import { FontAwesome } from "@expo/vector-icons";
 import Colors from "../../Utils/Colors";
 import FilterPage from "./Filter";
 
-export default function Header({ placeList, onFilter }) {
+export default function Header({
+  placeList,
+  options,
+  onFilter,
+  onClearFilter,
+}) {
   const [modalVisible, setModalVisible] = useState(false);
 
   const toggleModal = () => {
@@ -39,7 +44,15 @@ export default function Header({ placeList, onFilter }) {
           <View style={styles.modalView}>
             <FilterPage
               placeList={placeList}
-              onFilter={onFilter}
+              options={options}
+              onFilter={({ selectedType, connectorCount }) => {
+                onFilter({ selectedType, connectorCount });
+                toggleModal();
+              }}
+              onClearFilter={() => {
+                onClearFilter();
+                toggleModal();
+              }}
               onCloseModal={() => setModalVisible(!modalVisible)}
             />
           </View>

@@ -2,21 +2,9 @@ import { Picker } from "@react-native-picker/picker";
 import React, { useEffect, useState } from "react";
 import { View, Text, TextInput, Button, StyleSheet } from "react-native";
 
-const FilterPage = ({ placeList, onFilter, onCloseModal }) => {
+const FilterPage = ({ options, onFilter, onCloseModal, onClearFilter }) => {
   const [connectorCount, setConnectorCount] = useState();
-  const [options, setOptions] = useState([]);
   const [selectedType, setSelectedType] = useState();
-
-  useEffect(() => {
-    const newOptions = placeList.reduce((acc, item) => {
-      const value = item?.evChargeOptions?.connectorAggregation[0]?.type;
-      if (value && !acc.includes(value)) {
-        acc.push(value);
-      }
-      return acc;
-    }, []);
-    if (newOptions) setOptions(newOptions);
-  }, [placeList]);
 
   const handleConnectorCountChange = (value) => {
     if (parseInt(value) >= 1 || value === "") {
@@ -52,6 +40,14 @@ const FilterPage = ({ placeList, onFilter, onCloseModal }) => {
         ))}
       </Picker>
       <Button title="Filter" onPress={handleFilter} />
+      <Button
+        title="Clear Filters"
+        onPress={() => {
+          setConnectorCount(undefined);
+          setSelectedType(undefined);
+          onClearFilter();
+        }}
+      />
       <Button title="Close" onPress={onCloseModal} />
     </View>
   );
