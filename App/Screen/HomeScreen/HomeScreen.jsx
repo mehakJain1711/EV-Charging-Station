@@ -1,21 +1,37 @@
-import { StyleSheet,View, Text } from 'react-native';
-import React, { useContext,useEffect,useState } from 'react'
-import AppMapView from './AppMapView'
-import Header from './Header'
-import SearchBar from './searchBar';
-import { UserLocationContext } from '../../Context/UserLocationContext';
-import GlobalApi from '../../Utils/GlobalApi'
-import PlaceListView from './PlaceListView';
-import { selectMarkerContext } from '../../Context/SelectMarkerContext';
+import { StyleSheet, View, Text } from "react-native";
+import React, { useContext, useEffect, useState } from "react";
+import AppMapView from "./AppMapView";
+import Header from "./Header";
+import SearchBar from "./searchBar";
+import { UserLocationContext } from "../../Context/UserLocationContext";
+import GlobalApi from "../../Utils/GlobalApi";
+import PlaceListView from "./PlaceListView";
+import { selectMarkerContext } from "../../Context/SelectMarkerContext";
 export default function HomeScreen() {
+  const { location, setLocation } = useContext(UserLocationContext);
+  const [placeList, setPlaceList] = useState([]);
+  const [options, setOptions] = useState([]);
+  const [tempPlaceList, setTempPlaceList] = useState([]);
+  const [selectedMarker, setSelectedMarker] = useState([]);
 
-  const{location,setLocation}=useContext(UserLocationContext);
-  const[placeList,setPlaceList]=useState([])
-  const[selectedMarker,setSelectedMarker]=useState([])
+  useEffect(() => {
+    location && GetNearByPlace();
+  }, [location]);
 
-  useEffect(()=>{
-    location&&GetNearByPlace();
-  },[location])
+  useEffect(() => {}, [tempPlaceList]);
+
+  useEffect(() => {
+    const newOptions = placeList.reduce((acc, item) => {
+      const values = item?.evChargeOptions?.connectorAggregation ?? [];
+      for (let i = 0; i < values.length; i++) {
+        if (values[i] && !acc.includes(values[i].type)) {
+          acc.push(values[i].type);
+        }
+      }
+      return acc;
+    }, []);
+    if (newOptions) setOptions(newOptions);
+  }, [placeList]);
 
   const GetNearByPlace=()=>{
     const data={
@@ -32,58 +48,76 @@ export default function HomeScreen() {
     }
   }
     GlobalApi.NewNearByPlace(data).then(resp=>{
-      console.log(JSON.stringify(resp.data));
+      // console.log(JSON.stringify(resp.data));
       setPlaceList(resp.data?.places);
-    })
-  }
+    });
+  };
   return (
-   <selectMarkerContext.Provider value={{selectedMarker,setSelectedMarker}}>
-    <View>
-      <View style={styles.headerContainer}>
-        <Header/>
-        {/* {SearchBar({lat:28.64,lon:77.21,searchText:"Evstation"})} */}
-        <SearchBar searchedLocation={(location)=>setLocation({
-          latitude:location.lat, 
-          longitude:location.lng
-        })}/>
+    <selectMarkerContext.Provider value={{ selectedMarker, setSelectedMarker }}>
+      <View>
+        <View style={styles.headerContainer}>
+          <Header
+            placeList={tempPlaceList}
+            options={options}
+            onClearFilter={() => {
+              setTempPlaceList(placeList);
+            }}
+            onFilter={({ selectedType, connectorCount }) => {
+              setTempPlaceList(placeList);
+              let tempList = placeList.filter((item) => {
+                let ccount = item?.evChargeOptions?.connectorCount;
+                return ccount >= connectorCount;
+              });
+              setTempPlaceList(
+                tempList.filter((item) => {
+                  let cTypes =
+                    item?.evChargeOptions?.connectorAggregation?.map(
+                      (i) => i.type
+                    ) ?? [];
+                  return cTypes.includes(selectedType);
+                })
+              );
+            }}
+          />
+          {/* {SearchBar({lat:28.64,lon:77.21,searchText:"Evstation"})} */}
+          <SearchBar
+            searchedLocation={(location) =>
+              setLocation({
+                latitude: location.lat,
+                longitude: location.lng,
+              })
+            }
+          />
+        </View>
+        {tempPlaceList && <AppMapView placeList={tempPlaceList} />}
+        <View style={styles.placeListContainer}>
+          {tempPlaceList && <PlaceListView placeList={tempPlaceList} />}
+        </View>
       </View>
-      {placeList && <AppMapView placeList={placeList}/>}
-      <View style={styles.placeListContainer}>
-        {placeList && <PlaceListView placeList={placeList}/>}
-      </View>
-    </View>
     </selectMarkerContext.Provider>
-  )
+  );
 }
 
-const styles=StyleSheet.create({
-  headerContainer:{
-    position:'absolute',
-    zIndex:10,
-    padding:10,
-    width:'100%',
-    paddingHorizontal:20
+const styles = StyleSheet.create({
+  headerContainer: {
+    position: "absolute",
+    zIndex: 10,
+    padding: 10,
+    width: "100%",
+    paddingHorizontal: 20,
   },
-  placeListContainer:{
-    position:'absolute',
-    bottom:0,
-    zIndex:10,
-    width:'100%'
-  }
-})
+  placeListContainer: {
+    position: "absolute",
+    bottom: 0,
+    zIndex: 10,
+    width: "100%",
+  },
+});
 
-
-
-
-
-
-
-
-
-
-
-{/* <SearchBar searchedLocation={(location)=>
+{
+  /* <SearchBar searchedLocation={(location)=>
   setLocation({
     latitude:location.lat,
     longitude:location.lng
-  })}/> */}
+  })}/> */
+}
