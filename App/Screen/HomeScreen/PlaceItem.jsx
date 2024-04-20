@@ -10,9 +10,16 @@ import {app} from '../../Utils/Firebaseconfig';
 import {useUser} from '@clerk/clerk-expo';
 import { deleteDoc } from "firebase/firestore";
 import { MaterialCommunityIcons } from '@expo/vector-icons';
+import { useNavigation } from '@react-navigation/native'; // Import useNavigation hook
 
 export default function PlaceItem({place,isFav,markedFav}) {
     const PLACE_PHOTO_BASE_URL= "https://places.googleapis.com/v1/";
+    const navigation = useNavigation(); // Get navigation object using useNavigation hook
+
+    const navigateToAddPaymentMethod = (placeAddress) => {
+      navigation.navigate('paymentMethod', { placeAddress });
+  };
+  
     const db =  getFirestore (app);
     const {user}=useUser();
     const onSetFav=async(place)=>
@@ -157,9 +164,18 @@ export default function PlaceItem({place,isFav,markedFav}) {
                     </Pressable> 
                      <MaterialCommunityIcons name="navigation-variant-outline" size={24} color="green" onPress={navigateToGoogleMaps} />
                     {/* <MaterialCommunityIcons name="navigation-variant" size={15} color="green" onPress={navigateToGoogleMaps} style={{ margin: 10,position:'relative' }} /> */}
+                    
+                    {/* Render payment button */}
+                    <Pressable style={{ marginTop: 10 }} onPress={() => navigateToAddPaymentMethod(place.shortFormattedAddress)}>
+                        <Text style={{ color: 'blue', textDecorationLine: 'underline' }}>Add Payment Method</Text>
+                        <MaterialCommunityIcons name="credit-card-plus-outline" size={24} color="green" />
+                    </Pressable>
+
                 </View>
             </LinearGradient>
         </View>
     );
 };
+
+
 

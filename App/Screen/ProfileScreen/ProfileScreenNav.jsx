@@ -1,13 +1,16 @@
 import React, { useState } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, Modal,Linking } from 'react-native';
 import { AntDesign } from '@expo/vector-icons';
 import SignOut from './SignOut';
-import DeleteAccount from './DeleteAccount';
+//import DeleteAccount from './DeleteAccount';
 import AddPayment from './AddPaymentMethod';
 import AddReview from './AddReview';
 import { useUser } from "@clerk/clerk-expo";
+import { useNavigation } from '@react-navigation/native';
 
-const ProfileScreen = () => {
+
+const ProfileScreen = (props) => {
+ // const navigation = useNavigation();
   const [activeScreen, setActiveScreen] = useState(null);
   const { user } = useUser();
  
@@ -18,14 +21,26 @@ const ProfileScreen = () => {
         return <SignOut />;
       case 'DeleteAccount':
         return <SignOut />;
-      case 'AddPayment':
-        return <AddPayment />;
+      //case 'AddPayment':
+        //return <AddPayment />;
       case 'AddReview':
         return <AddReview />;
       default:
         return null;
     }
   };
+
+  const showPaymentPage = () => {    
+      navigation.navigate('paymentMethod');
+  }
+  const sendEmail = () => {
+    const email = 'mehakjain1711@gmail.com'; // Replace with your email
+    const subject = 'Feedback from App User'; // Email subject
+    const body = 'Please share your feedback here:'; // Prompt for feedback
+    
+    const mailToUrl = `mailto:${email}?subject=${subject}&body=${body}`;
+    Linking.openURL(mailToUrl);
+};
 
   return (
     <View style={styles.container}>
@@ -38,17 +53,22 @@ const ProfileScreen = () => {
         <Text style={styles.buttonText}>Delete Account</Text>
         <AntDesign name="deleteuser" size={24} color="black" />
       </TouchableOpacity>
-      <TouchableOpacity style={styles.button} onPress={() => setActiveScreen('AddPayment')}>
+      {/* <TouchableOpacity style={styles.button} onPress={() => showPaymentPage()}>
         <Text style={styles.buttonText}>Add Payment Method</Text>
         <AntDesign name="creditcard" size={24} color="black" />
-      </TouchableOpacity>
-      <TouchableOpacity style={styles.button} onPress={() => setActiveScreen('AddReview')}>
+      </TouchableOpacity> */}
+      {/* <TouchableOpacity style={styles.button} onPress={() => setActiveScreen('AddReview')}>
         <Text style={styles.buttonText}>Add Review</Text>
         <AntDesign name="edit" size={24} color="black" />
-      </TouchableOpacity>
+      </TouchableOpacity> */}
+      <TouchableOpacity style={styles.button} onPress={sendEmail}>
+                <Text style={styles.buttonText}>Add Review</Text>
+                <AntDesign name="edit" size={24} color="black" />
+            </TouchableOpacity>
 
       {/* Render the active screen */}
       {activeScreen && renderScreen(activeScreen)}
+      {/* <Modal><Text>jhjkhkj</Text></Modal> */}
     </View>
   );
 };
@@ -86,3 +106,5 @@ const styles = StyleSheet.create({
 });
 
 export default ProfileScreen;
+
+
