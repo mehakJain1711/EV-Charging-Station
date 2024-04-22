@@ -14,13 +14,35 @@ export default function HomeScreen() {
   const [tempPlaceList, setTempPlaceList] = useState([]);
   const [selectedMarker, setSelectedMarker] = useState([]);
 
+  // useEffect(() => {
+  //   location && GetNearByPlace();
+  // }, [location]);
+
+  // useEffect(() => {}, [tempPlaceList]);
+
+  // useEffect(() => {
+  //   const newOptions = placeList.reduce((acc, item) => {
+  //     const values = item?.evChargeOptions?.connectorAggregation ?? [];
+  //     for (let i = 0; i < values.length; i++) {
+  //       if (values[i] && !acc.includes(values[i].type)) {
+  //         acc.push(values[i].type);
+  //       }
+  //     }
+  //     return acc;
+  //   }, []);
+  //   if (newOptions) setOptions(newOptions);
+  // }, [placeList]);
   useEffect(() => {
     location && GetNearByPlace();
   }, [location]);
 
-  useEffect(() => {}, [tempPlaceList]);
+  useEffect(() => {
+    // Initialize tempPlaceList with placeList when component mounts
+    setTempPlaceList(placeList);
+  }, [placeList]); // Trigger when placeList changes
 
   useEffect(() => {
+    // Extract options from placeList when placeList changes
     const newOptions = placeList.reduce((acc, item) => {
       const values = item?.evChargeOptions?.connectorAggregation ?? [];
       for (let i = 0; i < values.length; i++) {
@@ -31,7 +53,7 @@ export default function HomeScreen() {
       return acc;
     }, []);
     if (newOptions) setOptions(newOptions);
-  }, [placeList]);
+  }, [placeList]); // Trigger when placeList changes
 
   const GetNearByPlace=()=>{
     const data={
