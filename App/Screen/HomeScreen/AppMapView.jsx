@@ -21,7 +21,7 @@ export default function AppMapView({placeList}) {
         lattitudeDelta:0.0522,
         longitudeDelta:0.0421,
       }}
-      minZoomLevel={11}
+      minZoomLevel={12}
       >
        {location? <Marker
           coordinate={{
@@ -30,8 +30,8 @@ export default function AppMapView({placeList}) {
           }}
         >
   
-          <Image source={require('./../../../assets/images/car-marker.png')}
-          style={{width:30, height:70,}}
+          <Image source={require('./../../../assets/images/car-marker.jpeg')}
+          style={{width:30, height:30,}}
           />
           </Marker>:null}
           {(placeList && placeList.length) ? placeList.map((item,index) => 

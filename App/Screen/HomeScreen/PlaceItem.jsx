@@ -166,7 +166,7 @@ export default function PlaceItem({place,isFav,markedFav}) {
                     {/* <MaterialCommunityIcons name="navigation-variant" size={15} color="green" onPress={navigateToGoogleMaps} style={{ margin: 10,position:'relative' }} /> */}
                     
                     {/* Render payment button */}
-                    <Pressable style={{ marginTop: 10 }} onPress={() => navigateToAddPaymentMethod(place.shortFormattedAddress)}>
+                    <Pressable style={{ marginTop: 10 }} onPress={() => navigateToAddPaymentMethod(place.displayName?.text)}>
                         <Text style={{ color: 'blue', textDecorationLine: 'underline' }}>Add Payment Method</Text>
                         <MaterialCommunityIcons name="credit-card-plus-outline" size={24} color="green" />
                     </Pressable>

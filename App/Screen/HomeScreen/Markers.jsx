@@ -19,7 +19,7 @@ export default function Markers({index,place }) {
       // onPress={() => console.log("Marker Index:", index)}
     >
     
-      <Image source={require('./../../../assets/images/location.png')}
+      <Image source={require('./../../../assets/images/location.jpeg')}
           style={{width:30, height:30,}}
       />
     </Marker>

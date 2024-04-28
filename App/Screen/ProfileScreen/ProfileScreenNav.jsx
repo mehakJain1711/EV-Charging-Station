@@ -35,7 +35,7 @@ const ProfileScreen = (props) => {
   }
   const sendEmail = () => {
     const email = 'mehakjain1711@gmail.com'; // Replace with your email
-    const subject = 'Feedback from App User'; // Email subject
+    const subject = 'Feedback regarding the App'; // Email subject
     const body = 'Please share your feedback here:'; // Prompt for feedback
     
     const mailToUrl = `mailto:${email}?subject=${subject}&body=${body}`;
@@ -62,7 +62,7 @@ const ProfileScreen = (props) => {
         <AntDesign name="edit" size={24} color="black" />
       </TouchableOpacity> */}
       <TouchableOpacity style={styles.button} onPress={sendEmail}>
-                <Text style={styles.buttonText}>Add Review</Text>
+                <Text style={styles.buttonText}>Give Feedback</Text>
                 <AntDesign name="edit" size={24} color="black" />
             </TouchableOpacity>
 
